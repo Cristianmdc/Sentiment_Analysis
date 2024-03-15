@@ -13,7 +13,7 @@ model = load_model()
 
 # Setting up the sidebar
 st.sidebar.title("Options")
-st.sidebar.info("This NLP app uses a pre-trained model to predict sentiment. Enter some text and click 'Predict Sentiment'.")
+st.sidebar.info("This NLP app uses a pre-trained model to predict sentiment Made by Cristian Moreno. Enter some text and click 'Predict Sentiment'.")
 
 # Main application
 st.title('NLP Sentiment Analysis')
